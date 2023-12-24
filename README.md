@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#512BD4</font></font>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=#512BD4&logoColor=white"/>
 <!--
 **MONGNOM/MONGNOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
