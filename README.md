@@ -4,8 +4,9 @@
 </div>
 
 <div align="center">
-  
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/unity-222222?style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/cplusplus-00599DC?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white" />
 </div>
 <!--
