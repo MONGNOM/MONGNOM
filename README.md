@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/#512BD4-3DDC84?style=flat-square&logo=#512BD4&logoColor=white"/>
+<img src="https://img.shields.io/badge/C#-3DDC84?style=flat-square&logo=#512BD4&logoColor=white"/>
 <!--
 **MONGNOM/MONGNOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
