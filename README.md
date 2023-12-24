@@ -7,10 +7,10 @@
 신입 게임 개발자를 꿈꾸고 있는 정몽현입니다.
 <br/> <br/> <br/> <br/>  
 <!---->
-#### ✍ Tech Stack ✍
+#### ✍ Tech Stack ✍<br/>
 <img src="https://img.shields.io/badge/cplusplus-00599DC?style=flat-square&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white" />
 <br/> <br/> <br/><br/> <br/><br/>
-#### 🛠 Tool 🛠
+#### 🛠 Tool 🛠<br/>
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/><img src="https://img.shields.io/badge/unity-222222?style=flat-square&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
 
