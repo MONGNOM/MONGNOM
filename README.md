@@ -2,7 +2,12 @@
   
   ![header](https://capsule-render.vercel.app/api?type=rect&text=게임개발자)
 </div>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+<div align="center">
+  
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+</div>
 <!--
 **MONGNOM/MONGNOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
