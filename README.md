@@ -14,7 +14,7 @@
 <h2 align="center">
   
 ⚙ Developing ⚙ <br/><br/>
-유니티 3D 개인 프로젝트 <img src="https://img.shields.io/badge/unity-222222?style=flat-square&logo=unity&logoColor=white"/>   <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white" /> <br/>
+유니티 3D 개인 프로젝트<br/> <img src="https://img.shields.io/badge/unity-222222?style=flat-square&logo=unity&logoColor=white"/>   <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white" />      <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" />     <img src="https://img.shields.io/badge/googleadmob-EA4335?style=flat-square&logo=googleadmob&logoColor=white" />     <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /><br/>
 <a href="https://github.com/MONGNOM/Project-GN"><br/>![Auto Craftol](https://github.com/MONGNOM/MONGNOM/assets/115628239/97985970-c47c-41d3-b403-19741c368153)
 
 
