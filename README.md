@@ -11,15 +11,13 @@
 
 </h>
 
-<h2 align="center">
+<h1 align="center">
   
 ⚙ Developing ⚙ <br/><br/>
-유니티 3D 개인 프로젝트<br/> <img src="https://img.shields.io/badge/unity-222222?style=flat-square&logo=unity&logoColor=white"/>   <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white" />      <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" />     <img src="https://img.shields.io/badge/googleadmob-EA4335?style=flat-square&logo=googleadmob&logoColor=white" />     <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /><br/>
-<a href="https://github.com/MONGNOM/Project-GN"><br/>![Auto Craftol](https://github.com/MONGNOM/MONGNOM/assets/115628239/97985970-c47c-41d3-b403-19741c368153)
 
+COMMING SOON !
 
-
-
+<br/>
 <h2 align="center">
 
  🖥 Project 🖥 <br/><br/>
@@ -27,6 +25,8 @@
 
 <div align="center">
 
+유니티 3D 개인 프로젝트<br/> <img src="https://img.shields.io/badge/unity-222222?style=flat-square&logo=unity&logoColor=white"/>   <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white" />      <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" />     <img src="https://img.shields.io/badge/googleadmob-EA4335?style=flat-square&logo=googleadmob&logoColor=white" />     <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /><br/>
+<a href="https://github.com/MONGNOM/Project-GN"><br/>![Auto Craftol](https://github.com/MONGNOM/MONGNOM/assets/115628239/97985970-c47c-41d3-b403-19741c368153)
 
  WinApi_개인프로젝트 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>　　　　　유니티 팀 프로젝트 <img src="https://img.shields.io/badge/unity-222222?style=flat-square&logo=unity&logoColor=white"/>   <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white" />       <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" /><br/><br/>
 <a href="https://github.com/MONGNOM/WinAPI2D_Kirby">![Rectangle 3](https://github.com/MONGNOM/MONGNOM/assets/115628239/4602de68-86e2-4355-bc1a-c2cc7bc58e4a)　　　　　　
