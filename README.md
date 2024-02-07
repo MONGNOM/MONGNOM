@@ -15,7 +15,7 @@
   
 ⚙ Developing ⚙ <br/><br/>
 
-COMMING SOON !
+COMING SOON !
 
 <br/>
 <h2 align="center">
