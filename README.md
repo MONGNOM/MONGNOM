@@ -15,7 +15,7 @@
   
 ⚙ Developing ⚙ <br/><br/>
 
-COMING SOON !
+Projetc ONE 
 
 <br/>
 
