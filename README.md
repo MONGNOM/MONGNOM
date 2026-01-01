@@ -13,7 +13,7 @@
 
 <h1 align="center">
 
-  PAUSE
+  ⬇️ PAUSE 😢
   
 ⚙ Developing ⚙ <br/><br/>
 
