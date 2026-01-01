@@ -55,12 +55,6 @@ Projetc ONE
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>  <img src="https://img.shields.io/badge/unity-222222?style=flat-square&logo=unity&logoColor=white"/>  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
 <br/> <br/> <br/>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONGNOM&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=MONGNOM&theme=tokyonight&show_icons=true" width="47%" />
-</a>
 <!--
 
 **MONGNOM/MONGNOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
